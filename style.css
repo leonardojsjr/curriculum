@@ -8,8 +8,6 @@
     background-size: cover;
     font-family: 'Lato', sans-serif;
     font-weight: 900;
-    width: auto;
-    height: auto;
 }
 
 div{
@@ -26,6 +24,12 @@ div img{
     width: 150px;
     height: 200px;
     margin-bottom: 10px;
+}
+
+.containerW{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
 }
 
 .bv{
@@ -71,7 +75,7 @@ h3{
     padding: 10px;
     margin-top: 10px;
     color: white;
-    width: 104%;
+    width: 100%;
     border-radius: 5px;
     font-size: 15px;
 }
