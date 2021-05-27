@@ -3,7 +3,7 @@
 /****************
 * MEDIA QUERIES
 *****************/
-@media (max-width: 400px){
+@media (max-width: 540px){
     .body h1{
       font-size: 40px;
     }
