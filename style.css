@@ -32,6 +32,7 @@
 .body{
     background-image: url(img/background.jpg);
     background-repeat: no-repeat;
+    height: 100vh;
     justify-content: space-between;
     background-size: cover;
     font-family: 'Lato', sans-serif;
